@@ -20,18 +20,14 @@ a strategic oppononent capable of this awareness of gamethreory; able to throw a
 conversation towards one topic and away from another to cold-test responses to gain key information
 not normally given to someone eo easily if ask directly.
 
-### Be subtle with it, man. You know what subtle means?
-
-VHS post-ironic cred **bespoke** banjo. Yr wayfarers literally gentrify, flexitarian fap 
-dreamcatcher plaid cornhole Intelligentsia paleo. Beard try-hard direct trade, shabby chic 
-Helvetica `look ma, I can code`. Lo-fi American Apparel tattooed [Vice](#) tofu, yr vinyl. 
-Williamsburg butcher hella mumblecore fixie mlkshk, cliche wolf keytar mixtape kitsch banh mi 
-salvia. High Life Odd Future *chambray* kale chips hoodie, cray pop-up. Helvetica narwhal 
-iPhone try-hard jean shorts.
+## Be subtle with it, man. You know what subtle means?
++ To be invisible is to do everything unoticed. Who is to stand in your way if no one even sees you
+heading closer to your goal.
 
 > Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.
 <br> -Sun Tzu
 
+<p> Oh yeah and added this to the site today.
 
 Syntax highlighting with Solarized theme.
 
@@ -44,3 +40,4 @@ class User < ActiveRecord::Base
 end
 
 {% endhighlight %}
+</p>
