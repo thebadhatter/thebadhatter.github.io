@@ -14,7 +14,7 @@ But then comes the plans and the variables for the poassible outcomes of plans a
 can go wrong. You will never beable to map out every little likelihood but the probable ones should be reflected on.
 
 
-# Game Theory
+## Game Theory
 + To live by a strategy to view obstacles and things that may make a goal more difficult as
 a strategic oppononent capable of this awareness of gamethreory; able to throw a wrench in your box,
 
@@ -25,10 +25,12 @@ following an event occuring and test responses by remembering past conversations
 to gain key information by paying attention to not only what they say. But what they leave out. Sometimes what people
 leave out will yield way more valuable information,
 
-## Be subtle with it, man. You know what subtle means?
+## It is better to go about your business unoticed if possible. The more people paying attention to you the more likely someone will
+find something they don't like.
+
 + To be invisible is to do everything unoticed. Who is to stand in your way if no one even sees you
 heading closer to your goal.
 
 ```> Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.
-<br> -Sun Tzu```
+ -Sun Tzu```
 
