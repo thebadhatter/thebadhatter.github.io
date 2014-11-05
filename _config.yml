@@ -1,4 +1,5 @@
 # General Jekyll Config
+permalink: none 
 highlighter: pygments
 url: http://example.com
 lsi: false
