@@ -15,8 +15,6 @@ Here's a sample "posts list".
 </ul>
 
 
-<br/>
-<br/>
 ## To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/thebadhatter/thebaddesthat)!
